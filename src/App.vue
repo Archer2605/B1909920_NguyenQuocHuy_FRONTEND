@@ -15,12 +15,12 @@ export default {
       <router-view />
     </div>
   </div>
+
 </template>
 
-<style>
-  .page {
+<style >
+.page {
   max-width: 400px;
   margin: auto;
-  }
+}
 </style>
-  
